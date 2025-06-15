@@ -1,4 +1,8 @@
 #include <iostream>
+#include <cmath>
+
+using std::cout, std::cin, std::endl;
+
 
 int main()
 {
@@ -18,3 +22,4 @@ int main()
 
     return 0;
 }
+
